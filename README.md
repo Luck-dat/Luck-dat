@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Lucas 👋
 
-<!--
-**Luck-dat/Luck-dat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Data Engineer, enfocado en construir pipelines de datos robustos, procesamiento ETL y modelado de bases de datos relacionales.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+*   **Lenguajes:** Python, SQL
+*   **Bases de Datos:** PostgreSQL (Supabase)
+*   **Orquestación:** GitHub Actions
+*   **Herramientas:** Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mis Proyectos Destacados
+*   **[Pipeline Salud FHIR](https://github.com/Luck-dat/pipeline-salud-fhir):** Pipeline ETL automático que extrae datos clínicos sintéticos (Synthea), los transforma y los carga en un esquema relacional en Postgres.
+*   **[Análisis de Transporte Urbano](https://github.com/Luck-dat/urban-transport-profitability-analysis):** Análisis exploratorio para optimizar la rentabilidad operativa.
+
+📫 **Cómo contactarme:** [Mi LinkedIn](https://www.linkedin.com/in/lucas-d-lopez) | ✉️ <damian2780lopez@gmail.com>
